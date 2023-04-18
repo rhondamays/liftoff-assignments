@@ -7,12 +7,32 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+  - We’re looking to create a reincarnation of Myspace that also serves as a goal/habit accountability platform. Users will be able to customize their page in a similar fashion to oldschool myspace while also putting their goals and daily things they’d like to accomplish and keep track of.
+
 ### Features
-Include Features here
+  - Login functionality
+  - Customizable Profile
+      - Ability to Add/Change Profile Pic
+      - Change Background Image
+      - Modifiy Bio
+  - Ability to Add/Remove tasks
+  - Ability to mark tasks Complete/Incomplete
+  - View friend's profiles
+
 ### Technologies
 Include Technologies here
+  - Angular 
+  - Java
+  - MySQL DB
+  - Rest API's
+  - Hibernate
+  - Spring Boot
+  - Postman
+
 ### What I'll Have to Learn
 Include what you will need to learn here
+  - I'll need to refresh my memory on Angular, Postman/Databases, and connecting frontend to the backend.
+
 ### Project Tracker
 Link to your Trello board here
+  - https://trello.com/b/uKZDq1UW/jjjalr
